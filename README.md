@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Spring Boot<br>🌱 I’m currently learning Backend Development<br>💬 Ask me about Backend Development<br>
+🔭 I’m currently working as Software Engineer on tech stack Spring Boot<br>🌱  I am eager to leverage my expertise in a challenging role within the industry. As a committed and results-oriented individual, I am confident in my ability to contribute to any team and exceed expectations.<br>💬 Ask me about Backend Development<br>
 
 
 ## 🌐 Socials:
